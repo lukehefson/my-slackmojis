@@ -2,7 +2,5 @@ Here are some [custom Slack emojis](https://get.slack.help/hc/en-us/articles/206
 
 --
 
-| Image                                                                                | Suggested command |
-|--------------------------------------------------------------------------------------|-------------------|
-| ![](https://raw.githubusercontent.com/lukehefson/my-slackmojis/master/yak.png)       | `:yak:`           |
-| ![](https://raw.githubusercontent.com/lukehefson/my-slackmojis/master/slow_clap.gif) | `:slow_clap:`     |
+| ![](https://raw.githubusercontent.com/lukehefson/my-slackmojis/master/yak.png) `:yak:` | ![](https://raw.githubusercontent.com/lukehefson/my-slackmojis/master/slow_clap.gif) `:slow_clap:` |
+|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
