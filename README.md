@@ -2,5 +2,5 @@ Here are some [custom Slack emojis](https://get.slack.help/hc/en-us/articles/206
 
 --
 
-| ![](https://raw.githubusercontent.com/lukehefson/my-slackmojis/master/yak.png) `:yak:` | ![](https://raw.githubusercontent.com/lukehefson/my-slackmojis/master/slow_clap.gif) `:slow_clap:` | ![](https://raw.githubusercontent.com/lukehefson/my-slackmojis/master/dm.png) `:dm:` |
+| ![](https://raw.githubusercontent.com/lukehefson/my-slackmojis/master/yak.png) `:yak:` | ![](https://raw.githubusercontent.com/lukehefson/my-slackmojis/master/slow_clap.gif) `:slow_clap:` | ![](https://github.com/lukehefson/my-slackmojis/blob/master/DM.png?raw=true) `:dm:` |
 |----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
